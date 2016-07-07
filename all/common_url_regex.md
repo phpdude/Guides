@@ -253,7 +253,9 @@ yourdomain.com/2015/03/
 yourdomain.com/2015/03/21/
 ```
     
+#### Django Macros URL
 
+As alternative you can use (Django Macros URL)[https://github.com/phpdude/django-macros-url] for building your urls.py files. Django Macros URL makes it easy to read and write patterns without using regular expressions for standard patterns.
 
 
 If you find other regular expressions you are unsure of their meaning, feel free to [contact us](mailto:codingforentrepreneurs@gmail.com).
